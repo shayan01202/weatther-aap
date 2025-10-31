@@ -88,11 +88,9 @@ A simple and responsive **Weather Application** built using **HTML, CSS, and Jav
 
 ## 🖼️ Screenshots (optional)
 
-You can add screenshots of your app here, for example:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1b327bc2-327e-4d41-8b15-483d26e5e8a0" />
+<img width="1920" height="1080" alt="weather" src="https://github.com/user-attachments/assets/e7f7df7f-2c9b-4e17-86fd-2e949543f7a5" />
 
-```
-![Weather App Screenshot](./screenshot.png)
-```
 
 ---
 
@@ -112,5 +110,6 @@ This project is licensed under the **MIT License** — you are free to use, modi
 ## 👨‍💻 Author
 
 **Shayan Shafi**
+
 
 
