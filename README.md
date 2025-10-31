@@ -110,6 +110,3 @@ This project is licensed under the **MIT License** — you are free to use, modi
 ## 👨‍💻 Author
 
 **Shayan Shafi**
-
-Would you like me to include **installation and API setup instructions for deploying it online (e.g., GitHub Pages or Netlify)** in the README as well?
-```
